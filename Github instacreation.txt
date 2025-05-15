@@ -7,3 +7,5 @@ and share the videos
 and select the videos 
 and posting the video.
 after that we should select some photos in gallery and upload it 
+
+3. Audio songs and audio shorts will be added 
